@@ -6,7 +6,7 @@ Interactive study course for systems engineering, built around an EV Battery Man
 
 ## Get started
 
-Open **`index_2.html`** in a browser. It works offline straight from the file, or serve the folder:
+Open **`index.html`** in a browser. It works offline straight from the file, or serve the folder:
 
 ```sh
 python3 -m http.server
